@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:11:27 -0700] "GET /spring-mvc/login HTTP/1.1" 200 399 http-bio-8080-exec-1 2069
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:11:37 -0700] "GET / HTTP/1.1" 200 399 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:11:44 -0700] "GET /login.do HTTP/1.1" 200 399 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:11:48 -0700] "GET /login HTTP/1.1" 404 961 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:11:52 -0700] "GET /login.do HTTP/1.1" 200 399 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:11:58 -0700] "GET /spring-mvc/login HTTP/1.1" 200 399 http-bio-8080-exec-9 4
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:12:19 -0700] "GET /spring-mvc/login HTTP/1.1" 200 399 http-bio-8080-exec-9 13
+0:0:0:0:0:0:0:1 - - [13/Jun/2017:18:12:54 -0700] "POST /spring-mvc/login HTTP/1.1" 200 399 http-bio-8080-exec-9 60
