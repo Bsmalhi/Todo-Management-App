@@ -8,7 +8,10 @@
 * Utilizes JSP, JSTL tags along bootstrap to beautify pages.
 * Runs on Tomcat server. 
 
-![login page](https://ibb.co/eokQ2k)
-![Welcome Page](https://ibb.co/nr1F2k)
-![list-todos](https://ibb.co/mdojv5)
-![Add-todos](https://ibb.co/jR7oNk)
+![login page](https://i.imgur.com/8HimqYq.png)
+
+![Welcome Page](https://i.imgur.com/sgOFfAp.png)
+
+![list-todos](https://i.imgur.com/Ft7oIZz.png)
+
+![Add-todos](https://i.imgur.com/GgnrKVu.png)
